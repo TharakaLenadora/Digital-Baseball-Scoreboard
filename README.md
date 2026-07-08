@@ -1,4 +1,4 @@
-# Bare-Metal AVR Baseball Scoreboard Controller
+# Digital Baseball Scoreboard Controll with Mobile App
 
 A high-performance, bare-metal C implementation for the ATmega328P microcontroller driving an electronic baseball scoreboard display. This project updates an initial Arduino-based sketch into optimized, non-blocking AVR C by shifting tasks like 7-segment multiplexing and Bluetooth UART data packet parsing out of the main running loop and directly into hardware interrupts.
 
