@@ -244,7 +244,7 @@ Example:
 
 The complete project report, presentation, and demonstration videos are available here:
 
-🔗 https://lnkd.in/gK_EZh8J
+https://drive.google.com/file/d/1iPvvzkpvHo1Koh8ojyzs0L4yczh_WMxI/view?usp=drive_link
 
 ---
 
