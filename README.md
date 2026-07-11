@@ -244,8 +244,7 @@ Example:
 
 The complete project report, presentation, and demonstration videos are available here:
 
-https://drive.google.com/file/d/1iPvvzkpvHo1Koh8ojyzs0L4yczh_WMxI/view?usp=drive_link
-
+https://drive.google.com/drive/folders/15Mx5OHCbD8A7Innia65zrOZV7Z2zfMGN
 ---
 
 # 📱 Companion Android Application
