@@ -220,23 +220,6 @@ Repeat
 
 # 📷 Project Images
 
-Add screenshots inside an **images/** folder.
-
-```
-images/
-│
-├── prototype.jpg
-├── scoreboard.jpg
-├── circuit.png
-├── pcb.jpg
-└── wiring.jpg
-```
-
-Example:
-
-```markdown
-![Prototype](images/prototype.jpg)
-```
 
 ---
 
