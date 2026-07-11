@@ -219,7 +219,11 @@ Repeat
 ---
 
 # 📷 Project Images
+![image alt] (https://github.com/TharakaLenadora/Digital-Baseball-Scoreboard/blob/03fd09d56c9f4be21af14e514fa9b369b7c0fe26/ScoreBoard.jpeg)
 
+![image alt](https://github.com/TharakaLenadora/Digital-Baseball-Scoreboard/blob/03fd09d56c9f4be21af14e514fa9b369b7c0fe26/PCB.jpeg)
+
+![image alt](https://github.com/TharakaLenadora/Digital-Baseball-Scoreboard/blob/03fd09d56c9f4be21af14e514fa9b369b7c0fe26/BackEnd.jpeg)
 
 ---
 
